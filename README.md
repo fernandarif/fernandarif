@@ -1,6 +1,6 @@
-## Hallo Saya Fernanda 👋
+## Hallo my name Fernanda 👋
 
-![Fernanda](img/benner.png)
+![Fernanda](img/Benner%20Fernanda%202.png)
 
 <!--
 **fernandarif/fernandarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+#### Di Pelajari
 - 🔭 Saya sedang mencoba untuk mengedit profile Github saya
