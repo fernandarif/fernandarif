@@ -17,4 +17,3 @@ Ini adalah sebuah Github yang berisi dengan hal yang baru, sang calon Develop me
 
 ![https://chatgpt.com/](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![https://gemini.com/](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![https://github.com/fernandarif](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://instagram.com/fernnd_nda](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://tiktok.com/fernanda_ndaa](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://threads.com/fernnd_nda](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
-
