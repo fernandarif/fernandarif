@@ -11,6 +11,7 @@ Ini adalah sebuah Github yang berisi dengan hal yang baru, sang calon Develop me
 ##### Pemrograman Dipelajari
 
 [![My Skills](https://skillicons.dev/icons?i=css,html&theme=light)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 ##### Partner & Social Media
