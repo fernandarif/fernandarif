@@ -6,9 +6,7 @@
 
 ##### Partner & Social Media
 
-Ini adalah sebuah Github yang berisi dengan hal yang
-baru, sang calon Develop mempelajari sebuah pemrograman.
-Jadi ini langkah awal sang Develop memulai belajar untuk karir masa depannya
+Ini adalah sebuah Github yang berisi dengan hal yang baru, sang calon Develop mempelajari sebuah pemrograman. Jadi ini langkah awal sang Develop memulai belajar untuk karir masa depannya.
 
 ##### Pemrograman Dipelajari
 
